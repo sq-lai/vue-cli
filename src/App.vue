@@ -1,6 +1,5 @@
 <template>
   <div id="#app">
-    <!-- {{message}} -->
     <!-- <test-view></test-view> -->
     <!-- <emp-view></emp-view> -->
     <router-view></router-view>
